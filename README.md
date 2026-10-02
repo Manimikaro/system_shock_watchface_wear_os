@@ -1,5 +1,6 @@
 # About
-<img width="450" height="450" alt="system_shock_20260902_22070453" src="https://github.com/user-attachments/assets/9568ac6e-7c1f-4465-9809-489fbd3cc487" />  
+<img width="450" height="450" alt="system_shock_20261002_17175396" src="https://github.com/user-attachments/assets/92440244-f71e-40a7-af98-2ff29524cfed" />
+
 
 My personal watchface design for a smartwatch running on Wear OS. The watch face is inspired by System Shock Remake. I made the watch face like trioptimum would have made it.
 
@@ -9,7 +10,8 @@ My personal watchface design for a smartwatch running on Wear OS. The watch face
 - Custom unread messages
 - Custom steps
 - For greater authenticity, Shodan appears when the heart rate is high.
-<img width="450" height="450" alt="system_shock_20260902_22060516" src="https://github.com/user-attachments/assets/6a173455-56ac-4a68-a9c4-788f83c52556" />
+
+<img width="450" height="450" alt="system_shock_20261002_17184782" src="https://github.com/user-attachments/assets/ee967d56-3eb1-4fc6-b7da-ce8f34d3be25" />
 
 
 # Installation Guide
